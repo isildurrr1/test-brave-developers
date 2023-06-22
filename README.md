@@ -11,5 +11,5 @@ Web приложение - терминал оплаты мобильного т
 успеха переходим на основной экран.
 ## Итоговый результат:
 ### >>> [Ссылка на демо](https://isildurrr1.github.io/test-brave-developers/) <<<
-![img](./public/images/Screenshot1.jpg)
-![img](./public/images/Screenshot2.jpg)
+![img](./src/images/Screenshot1.jpg)
+![img](./src/images/Screenshot2.jpg)
