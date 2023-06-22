@@ -10,6 +10,6 @@ Web приложение - терминал оплаты мобильного т
 от сервера. После ответа показывается сообщение об успехе или об ошибке. В случае
 успеха переходим на основной экран.
 ## Итоговый результат:
-### >>> [Ссылка на демо](https://isildurrr1.github.io/test-brave-developers/) <<<
+### >>> [Ссылка на демо](https://test-brave-developers.vercel.app/) <<<
 ![img](./src/images/Screenshot1.jpg)
 ![img](./src/images/Screenshot2.jpg)
